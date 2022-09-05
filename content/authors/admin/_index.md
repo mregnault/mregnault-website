@@ -14,13 +14,13 @@ organizations:
     url: https://www.uni-stuttgart.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include general and cognitive linguistics, language resources and grammars.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
   - Computational Linguistics
-  - Information Retrieval
+  - Formal Grammars
+  - Language Resources
 
 # Education to show in About widget
 education:
@@ -30,10 +30,10 @@ education:
       year: 2022
     - course: MSc in Natural Language Processing
       institution: Sorbonne Université
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2017
+    #- course: BSc in Translation, Communication and Marketing
+      #institution: Massachusetts Institute of Technology
+      #year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,18 +43,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/GeorgeCushen
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=egF07zEAAAAJ&hl=fr&oi=ao
+  - icon: semantic-scholar
+    icon_pack: ai
+    link: https://www.semanticscholar.org/author/Mathilde-Regnault/134461088
+  - icon: hal
+    icon_pack: ai
+    link: https://hal.archives-ouvertes.fr/search/index/?q=mathilde+regnault&authIdPerson_i=169624
+  #- icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/mathilde-regnault-536444b1/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
