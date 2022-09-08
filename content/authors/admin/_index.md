@@ -12,6 +12,8 @@ role: Postdoctoral Researcher
 organizations:
   - name: University of Stuttgart
     url: https://www.uni-stuttgart.de/en/
+  - name: Institut für Linguistik/Romanistik (ILR)
+    url: https://www.ling.uni-stuttgart.de/institut/ilr/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include general and cognitive linguistics, language resources and grammars.
@@ -31,9 +33,9 @@ education:
     - course: MSc in Natural Language Processing
       institution: Sorbonne Université
       year: 2017
-    #- course: BSc in Translation, Communication and Marketing
-      #institution: Massachusetts Institute of Technology
-      #year: 2008
+    - course: L3 (Bachelor) in Translation, Communication and Marketing
+      institution: Institut Supérieur d'Interprétation et de Traduction (ISIT)
+      year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
