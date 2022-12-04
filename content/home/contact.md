@@ -17,9 +17,9 @@ content:
 
   # Email form provider
   form:
-    provider: netlify
+    provider: formspree
     formspree:
-      id:
+      id: xrgdnzor
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
@@ -27,19 +27,19 @@ content:
   # Contact details (edit or remove options as required)
   #email: mathilde.regnault@ling.uni-stuttgart.de
   #phone: 888 888 88 88
-  address:
-    street: Keplerstraße 17
-    city: Stuttgart
-    #region: CA
-    postcode: '70174'
-    country: Germany
-    country_code: DE
+  # address:
+  #   street: Keplerstraße 17
+  #   city: Stuttgart
+  #   #region: CA
+  #   postcode: '70174'
+  #   country: Germany
+  #   country_code: DE
   #coordinates:
   #  latitude: '37.4275'
   #  longitude: '-122.1697'
   #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-  office_hours:
-    - 'Wednesday 15:30 to 18:00'
+  # office_hours:
+  #   - 'Wednesday 15:30 to 18:00'
   #appointment_url: 'https://calendly.com'
   contact_links:
     - icon: video
